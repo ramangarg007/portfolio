@@ -1,16 +1,16 @@
 # Data Scientist
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: Python, R, SQL, AWS, Snowflake, MATLAB, Tensorflow, PySpark
 
 ## Education								       		
-- M.S., Big Data Analytics	| University of Massachusetts Boston       		
+- M.S., Big Data Analytics | University of Massachusetts Boston       		
 - M.B.A., Operations and Analytics | Indian Institute of Management Jammu 
 - B.S., Computer Science Engineering | RustamJi Institute of Technology   
 
 ## Work Experience
 **Data Scientist @ University of Massachusetts Boston  (_September 2023 - May 2024_)**
-- Developed and implemented machine learning and statistical models, including cohort survival model (Linear K), XGBoost, and Prophet resulting in a 17% improvement in forecasting accuracy for enrollment trends by effectively comparing and categorizing two major enrollment intakes and student types. 
-- Implemented machine learning solution using kernel SVM and tree-based models, to predict dormitory rent defaults by analyzing demographics, financial and rent payment history, achieving reduction in default rates by 25%. 
+- Developed and implemented machine learning and statistical models, resulting in a 17% improvement in forecasting accuracy for enrollment trends by effectively comparing and categorizing two major enrollment intakes and student types. 
+- Implemented machine learning solution using kernel SVM and tree-based models, to predict dormitory rent defaults, achieving reduction in default rates by 25%. 
 
 **Data Science Consultant @ SpringML(_December 2021 - January 2023_)**
 - Streamlined data extraction for a Fintech client, using Google Document-AI, Google Big Query, and Spark, reducing extraction time by 20 minutes, and cutting costs by 40%. 
